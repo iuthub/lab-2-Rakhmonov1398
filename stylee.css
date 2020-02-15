@@ -1,0 +1,41 @@
+
+body{
+background-color:  #797D7F;
+
+}
+
+h2 
+{
+  color: red
+}
+
+
+#abc
+ {
+   color: red
+ }
+
+p,li i 
+{
+    color: green;
+    font-weight:bolder;
+}
+
+
+
+.bob
+{
+  
+    color:blue
+}
+
+
+
+.text
+{
+  color: white
+}
+ a 
+{
+  
+}
